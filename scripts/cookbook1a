@@ -1,0 +1,10 @@
+## This is section where thing are learned in python in great details.
+
+p = (4,5);
+print(type(p));
+print("\n")
+x,y=p;
+print(x,y);
+data = ["x",10,(2009,6,3)];
+name,age_now,data_of_birth=data;
+print(name,age_now,data_of_birth);
